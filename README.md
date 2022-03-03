@@ -1,2 +1,1 @@
-# AyudaSys
-Thesis
+# AyudaSys1.0

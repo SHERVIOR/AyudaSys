@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+}
+#title{
+
+}
+.nav-item{
+  padding: 0 18px;
+}
+.navbar{
+
+}
+.pricing-header{
+  color: white;
+}
+body {
+  background-size:cover;
+  align-items: center;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+  background-repeat: no-repeat;
+  background-image: url("https://i.imgur.com/32GO6tE.jpg");
+}
+.hello{
+  height: 10rem;
+}
+.qrcode{
+  position: absolute;
+  background-color: white;
+
+  left: 45%;
+
+
+}
+
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}

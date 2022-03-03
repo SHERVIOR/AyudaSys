@@ -1,0 +1,56 @@
+html {
+  font-size: 16px;
+
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+body{
+  background-repeat: no-repeat;
+  background-image:  url("https://i.imgur.com/32GO6tE.jpg");
+  background-size: cover;
+
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+}
+#title{
+
+
+}
+
+.navbar{
+  padding: 10 15 10 15 ;
+
+
+}
+
+.lead{
+  padding: 0 0 10% 0;
+  color: #ADD8E6;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+
+}
+.display-4{
+  padding: 10% 0 5% 0;
+  color: #ADD8E6;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+
+}
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
